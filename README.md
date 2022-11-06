@@ -1,7 +1,7 @@
 # filemanage
 
 A new Flutter project.
-
+get any person camera all pic to server 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
